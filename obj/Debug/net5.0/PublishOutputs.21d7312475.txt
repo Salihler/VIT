@@ -1,0 +1,10 @@
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\VIT\bin\Debug\net5.0\publish\VIT.exe
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\VIT\bin\Debug\net5.0\publish\VIT.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\VIT\bin\Debug\net5.0\publish\VIT.deps.json
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\VIT\bin\Debug\net5.0\publish\VIT.runtimeconfig.json
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\VIT\bin\Debug\net5.0\publish\VIT.pdb
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\VIT\bin\Debug\net5.0\publish\MailKit.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\VIT\bin\Debug\net5.0\publish\MimeKit.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\VIT\bin\Debug\net5.0\publish\BouncyCastle.Crypto.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\VIT\bin\Debug\net5.0\publish\System.Security.Cryptography.Pkcs.dll
+C:\Users\eren.salihler\Desktop\projects\.NET CORE\VIT\bin\Debug\net5.0\publish\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
